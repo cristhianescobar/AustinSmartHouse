@@ -7,7 +7,7 @@ Automation script to subscribe to this website for a chance to win an awesome ho
 
 ```
 $ git clone https://github.com/cristhianescobar/AustinSmartHouse.git
-$ cd NusikiExploit
+$ cd AustinSmartHouse
 $ npm install
 $ npm start
 ```
